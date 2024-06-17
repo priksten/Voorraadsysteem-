@@ -32,9 +32,16 @@ Naast het downloaden van de bestanden moet ook een logboek-bestand aangemaakt wo
 Python
 
 # Gebruikte modules:
-asyncio
-json
-mysql.connector
-datetime (date, datetime)
-os
+- asyncio
+- json
+- mysql.connector
+- datetime (date, datetime)
+- os
+- cv2
+- zxingcpp
+- socket
+- time
+- tkinter
+- threading
+
 
