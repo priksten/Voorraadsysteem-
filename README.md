@@ -18,6 +18,7 @@ Verder zijn de volgende drie bestanden nodig (en dienen in dezelfde map opgeslag
 - writing_to_txt.py
 
 Voor pc_y (en pc_z):
+
 PC2 bevat 3 bestanden die van elkaar afhankelijk zijn en dus samen in een folder geplaatst moeten worden.
 Main.py bevat de main loop waarmee je het programma start.
 BarcodeScanner.py bevat code voor het openen van de camera, het scannen van barcodes, het versturen van de barcode naar de Database-pc, en het schrijven van een logboek.
